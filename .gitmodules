@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/DB-GUI-Spring-2020-JBox/back-end.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/DB-GUI-Spring-2020-JBox/front-end.git
